@@ -1,5 +1,5 @@
 # depslib dependency file v1.0
-1608031072 source:c:\proiect_pirati\main\main.cpp
+1608323134 source:c:\proiect_pirati\main\main.cpp
 	<iostream>
 	<cstring>
 	<graphics.h>
